@@ -399,6 +399,10 @@ body .contact .center-divs .center-div-right button{
         padding-left: 5%;
         padding-right: 5%;
     }
+    input {
+
+        padding-right: 3em;
+    }
 
 }
 
